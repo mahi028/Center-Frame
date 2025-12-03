@@ -2,9 +2,7 @@
 
 A real-time face tracking application that automatically zooms and pans to keep the subject centered in the video feed. It uses YOLOv8 for face detection and applies smoothing to camera movements.
 
-<video width="320" height="240">
-  <source src="center-frame-2025-12-03-17-57-33.mp4" type="video/mp4">
-</video>
+![Demo](demo.gif)
 
 ## Usage
 
